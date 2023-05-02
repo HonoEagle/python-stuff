@@ -1,7 +1,7 @@
 # obf
  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honoeagle&repo=obf)](https://github.com/honoeagle/obf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honoeagle&repo=obf)](https://github.com/HonoEagle/python-stuff/tree/main/obfuscator)
 </br>
 
 
